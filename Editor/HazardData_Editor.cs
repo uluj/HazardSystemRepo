@@ -6,7 +6,7 @@ public class HazardData_Editor : Editor
 {
     private SerializedProperty HazardName;
     private SerializedProperty WarningVisualPrefab;
-    private SerializedPropety HazardPrefab;
+    private SerializedProperty HazardPrefab;
     private SerializedProperty WarningTime;
     private SerializedProperty EffectType;
     private SerializedProperty EffectValue;
