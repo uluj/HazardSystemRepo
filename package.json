@@ -1,9 +1,9 @@
 {
-    "name": "com.ulucgungor.hazardsystem",
+    "name": "com.ulucgungor.tools.scriptableobject-editor",
     "version": "1.0.0",
-    "displayName": "Hazard Lane - HazardSystem",
+    "displayName": "ScriptableObject Editor",
     "description": "Data driven tool for making HazardLane game, porfolio piece that helps designers and coders",
     "unity": "2021.3",
-    "keywords": ["gamedesign", "technical design", "tools", "Hazard"],
+    "keywords": ["gamedesign", "technical design", "tools"],
     "author": {"name": "Uluç Güngör", "email": "gungoruluc@gmail.com"}
 }
